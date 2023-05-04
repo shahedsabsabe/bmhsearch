@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
