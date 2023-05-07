@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Add C++ Classify inference example (#6868)
