@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Move Explorer tests to scheduled CI (#8305)
