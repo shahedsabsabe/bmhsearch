@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
