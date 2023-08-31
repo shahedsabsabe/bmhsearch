@@ -1,1 +1,1 @@
-update requirements.txt
+Compress docs images (#8124)
