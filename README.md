@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add PaddlePaddle Docs Integrations Page (#8858)
