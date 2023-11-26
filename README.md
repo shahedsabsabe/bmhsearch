@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Clean up unused imgsz (#7771)
