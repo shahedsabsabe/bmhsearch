@@ -1,1 +1,1 @@
-Add C++ Classify inference example (#6868)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
