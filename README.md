@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation, swap axis (#8249)
+Fix Yolo 8.0.206 scale bug (#7821)
