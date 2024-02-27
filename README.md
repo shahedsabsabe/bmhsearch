@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
