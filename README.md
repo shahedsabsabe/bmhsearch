@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Docs updates and improvements (#8183)
