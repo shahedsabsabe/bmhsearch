@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
