@@ -1,1 +1,1 @@
-ultralytics 8.1.30 add advanced HUB train arguments (#9110)
+ultralytics 8.1.11 expand OpenVINO INT8 ops for improved mAP (#7516)
