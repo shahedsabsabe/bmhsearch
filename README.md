@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
