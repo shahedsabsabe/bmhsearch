@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
