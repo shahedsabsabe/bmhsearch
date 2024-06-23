@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Batch inference fixes (#8854)
