@@ -1,1 +1,1 @@
-Add CoreML Docs Integrations Page (#8063)
+Resize angle, count, and stage on keypoint number change (#7598)
