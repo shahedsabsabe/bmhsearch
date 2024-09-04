@@ -1,1 +1,1 @@
-Retry once for Docker CI failures (#8164)
+Compare plt.get_backend() in lowercase (#8409)
