@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Add dota8.yaml and O tests (#7394)
