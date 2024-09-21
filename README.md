@@ -1,1 +1,1 @@
-Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
+Embed videos in Docs pages using Parent pages for relevant segments (#6877)
