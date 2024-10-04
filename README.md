@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Update Discord and Contributing Guide URLs (#9270)
